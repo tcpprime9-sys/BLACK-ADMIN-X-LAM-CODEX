@@ -1,2 +1,2 @@
-admin_password=4066
+admin_password=lamx69
 global_duration=1000
